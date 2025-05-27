@@ -1,0 +1,8 @@
+-- INSERT
+INSERT INTO employees (name, department, salary) VALUES ('John Doe', 'HR', 40000);
+
+-- UPDATE
+UPDATE employees SET salary = salary + 5000 WHERE name = 'John Doe';
+
+-- DELETE
+DELETE FROM employees WHERE name = 'John Doe';

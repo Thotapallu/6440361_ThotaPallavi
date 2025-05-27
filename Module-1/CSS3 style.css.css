@@ -1,0 +1,16 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+#welcomeBanner {
+  border-radius: 5px;
+}
+
+.highlight {
+  background-color: yellow;
+}
+
+.img-thumbnail {
+  width: 100px;
+  height: auto;
+}

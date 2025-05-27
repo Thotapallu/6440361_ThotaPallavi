@@ -1,0 +1,5 @@
+-- Select all columns from a table
+SELECT * FROM employees;
+
+-- Select specific columns
+SELECT name, salary FROM employees;

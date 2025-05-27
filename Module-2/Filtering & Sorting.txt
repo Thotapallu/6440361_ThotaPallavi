@@ -1,0 +1,5 @@
+-- WHERE clause with AND/OR
+SELECT * FROM employees WHERE salary > 50000 AND department = 'IT';
+
+-- ORDER BY
+SELECT name, salary FROM employees ORDER BY salary DESC;
